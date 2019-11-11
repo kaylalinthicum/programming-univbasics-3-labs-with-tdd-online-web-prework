@@ -1,2 +1,7 @@
 first_number = 12
-second
+second_number = 10 
+
+def sum(first_number + second_number)
+end
+
+def
